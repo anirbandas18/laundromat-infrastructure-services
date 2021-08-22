@@ -14,7 +14,7 @@
         <service.prefix>identity</service.prefix>
     </properties>
 
-    <artifactId>${service.prefix}-service</artifactId>
+    <artifactId>laundromat-infrastructure-${service.prefix}-service</artifactId>
     <version>0.0.1-RELEASE</version>
     <packaging>jar</packaging>
     <name>${service.prefix}-service</name>
