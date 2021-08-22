@@ -1,6 +1,8 @@
-mvn clean package -DskipTests -Ddockerfile.skip -e
+mvn clean package -DskipTests -e
 
-rem mvn clean package -Ddockerfile.skip -e
+rem mvn compile jib:build -e
+
+rem mvn clean package -e
 
 rem mvn spring-boot:run -Ddockerfile.skip -e
 
