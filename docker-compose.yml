@@ -1,0 +1,45 @@
+version: "3.9"
+
+volumes:
+  mysql:
+
+services:
+
+  rdbms-service:
+    image: mysql:8.0.26
+    container_name: rdbms-service
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+#      MYSQL_USER: anirbanstifler
+#      MYSQL_PASS: Razor1911.
+    volumes:
+      - /opt/laundromat-manager/var/lib/mysql:/var/lib/mysql
+      - /opt/laundromat-manager/laundromat-management-scripts/database-scripts/SQL/MySQL/laundromat.admin.sql:/docker-entrypoint-initdb.d/mysql.laundromat.admin.sql
+      - /opt/laundromat-manager/laundromat-management-scripts/database-scripts/SQL/MySQL/laundromat.ddl.sql:/docker-entrypoint-initdb.d/mysql.laundromat.ddl.sql
+    ports:
+      - 3306:3306
+
+  tracing-service:
+    image: openzipkin/zipkin
+    container_name: tracing-service
+    hostname: tracing-service
+    ports:
+      - 9411:9411
+
+  naming-service:
+    image: teenthofabud/laundromat-infrastructure-naming-service:0.0.1-SNAPSHOT
+    container_name: naming-service
+    ports:
+      - 8761:8761
+
+  configuration-service:
+    image: teenthofabud/laundromat-infrastructure-naming-service:0.0.1-SNAPSHOT
+    container_name: configuration-service
+    hostname: configuration-service
+    ports:
+      - 8888:8888
+    volumes:
+      - /opt/laundromat-manager/laundromat-service-configurations:/opt/laundromat-manager/laundromat-service-configurations
+    restart: on-failure
