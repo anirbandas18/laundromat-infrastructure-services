@@ -1,0 +1,30 @@
+
+
+
+NNNNNNNN        NNNNNNNN               AAA               MMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG
+N:::::::N       N::::::N              A:::A              M:::::::M             M:::::::MI::::::::IN:::::::N       N::::::N     GGG::::::::::::G
+N::::::::N      N::::::N             A:::::A             M::::::::M           M::::::::MI::::::::IN::::::::N      N::::::N   GG:::::::::::::::G
+N:::::::::N     N::::::N            A:::::::A            M:::::::::M         M:::::::::MII::::::IIN:::::::::N     N::::::N  G:::::GGGGGGGG::::G
+N::::::::::N    N::::::N           A:::::::::A           M::::::::::M       M::::::::::M  I::::I  N::::::::::N    N::::::N G:::::G       GGGGGG
+N:::::::::::N   N::::::N          A:::::A:::::A          M:::::::::::M     M:::::::::::M  I::::I  N:::::::::::N   N::::::NG:::::G
+N:::::::N::::N  N::::::N         A:::::A A:::::A         M:::::::M::::M   M::::M:::::::M  I::::I  N:::::::N::::N  N::::::NG:::::G
+N::::::N N::::N N::::::N        A:::::A   A:::::A        M::::::M M::::M M::::M M::::::M  I::::I  N::::::N N::::N N::::::NG:::::G    GGGGGGGGGG
+N::::::N  N::::N:::::::N       A:::::A     A:::::A       M::::::M  M::::M::::M  M::::::M  I::::I  N::::::N  N::::N:::::::NG:::::G    G::::::::G
+N::::::N   N:::::::::::N      A:::::AAAAAAAAA:::::A      M::::::M   M:::::::M   M::::::M  I::::I  N::::::N   N:::::::::::NG:::::G    GGGGG::::G
+N::::::N    N::::::::::N     A:::::::::::::::::::::A     M::::::M    M:::::M    M::::::M  I::::I  N::::::N    N::::::::::NG:::::G        G::::G
+N::::::N     N:::::::::N    A:::::AAAAAAAAAAAAA:::::A    M::::::M     MMMMM     M::::::M  I::::I  N::::::N     N:::::::::N G:::::G       G::::G
+N::::::N      N::::::::N   A:::::A             A:::::A   M::::::M               M::::::MII::::::IIN::::::N      N::::::::N  G:::::GGGGGGGG::::G
+N::::::N       N:::::::N  A:::::A               A:::::A  M::::::M               M::::::MI::::::::IN::::::N       N:::::::N   GG:::::::::::::::G
+N::::::N        N::::::N A:::::A                 A:::::A M::::::M               M::::::MI::::::::IN::::::N        N::::::N     GGG::::::GGG:::G
+NNNNNNNN         NNNNNNNAAAAAAA                   AAAAAAAMMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN         NNNNNNN        GGGGGG   GGGG
+
+
+
+
+
+
+   : : ${application.title} : :             (v${application.version})
+
+
+https://patorjk.com/software/taag/#p=display&f=Doh&t=NAMING
+

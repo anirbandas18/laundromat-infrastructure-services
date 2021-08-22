@@ -1,0 +1,29 @@
+
+
+        CCCCCCCCCCCCC     OOOOOOOOO     NNNNNNNN        NNNNNNNNFFFFFFFFFFFFFFFFFFFFFFIIIIIIIIII      GGGGGGGGGGGGGUUUUUUUU     UUUUUUUURRRRRRRRRRRRRRRRR                  AAA         TTTTTTTTTTTTTTTTTTTTTTTIIIIIIIIII     OOOOOOOOO     NNNNNNNN        NNNNNNNN
+     CCC::::::::::::C   OO:::::::::OO   N:::::::N       N::::::NF::::::::::::::::::::FI::::::::I   GGG::::::::::::GU::::::U     U::::::UR::::::::::::::::R                A:::A        T:::::::::::::::::::::TI::::::::I   OO:::::::::OO   N:::::::N       N::::::N
+   CC:::::::::::::::C OO:::::::::::::OO N::::::::N      N::::::NF::::::::::::::::::::FI::::::::I GG:::::::::::::::GU::::::U     U::::::UR::::::RRRRRR:::::R              A:::::A       T:::::::::::::::::::::TI::::::::I OO:::::::::::::OO N::::::::N      N::::::N
+  C:::::CCCCCCCC::::CO:::::::OOO:::::::ON:::::::::N     N::::::NFF::::::FFFFFFFFF::::FII::::::IIG:::::GGGGGGGG::::GUU:::::U     U:::::UURR:::::R     R:::::R            A:::::::A      T:::::TT:::::::TT:::::TII::::::IIO:::::::OOO:::::::ON:::::::::N     N::::::N
+ C:::::C       CCCCCCO::::::O   O::::::ON::::::::::N    N::::::N  F:::::F       FFFFFF  I::::I G:::::G       GGGGGG U:::::U     U:::::U   R::::R     R:::::R           A:::::::::A     TTTTTT  T:::::T  TTTTTT  I::::I  O::::::O   O::::::ON::::::::::N    N::::::N
+C:::::C              O:::::O     O:::::ON:::::::::::N   N::::::N  F:::::F               I::::IG:::::G               U:::::D     D:::::U   R::::R     R:::::R          A:::::A:::::A            T:::::T          I::::I  O:::::O     O:::::ON:::::::::::N   N::::::N
+C:::::C              O:::::O     O:::::ON:::::::N::::N  N::::::N  F::::::FFFFFFFFFF     I::::IG:::::G               U:::::D     D:::::U   R::::RRRRRR:::::R          A:::::A A:::::A           T:::::T          I::::I  O:::::O     O:::::ON:::::::N::::N  N::::::N
+C:::::C              O:::::O     O:::::ON::::::N N::::N N::::::N  F:::::::::::::::F     I::::IG:::::G    GGGGGGGGGG U:::::D     D:::::U   R:::::::::::::RR          A:::::A   A:::::A          T:::::T          I::::I  O:::::O     O:::::ON::::::N N::::N N::::::N
+C:::::C              O:::::O     O:::::ON::::::N  N::::N:::::::N  F:::::::::::::::F     I::::IG:::::G    G::::::::G U:::::D     D:::::U   R::::RRRRRR:::::R        A:::::A     A:::::A         T:::::T          I::::I  O:::::O     O:::::ON::::::N  N::::N:::::::N
+C:::::C              O:::::O     O:::::ON::::::N   N:::::::::::N  F::::::FFFFFFFFFF     I::::IG:::::G    GGGGG::::G U:::::D     D:::::U   R::::R     R:::::R      A:::::AAAAAAAAA:::::A        T:::::T          I::::I  O:::::O     O:::::ON::::::N   N:::::::::::N
+C:::::C              O:::::O     O:::::ON::::::N    N::::::::::N  F:::::F               I::::IG:::::G        G::::G U:::::D     D:::::U   R::::R     R:::::R     A:::::::::::::::::::::A       T:::::T          I::::I  O:::::O     O:::::ON::::::N    N::::::::::N
+ C:::::C       CCCCCCO::::::O   O::::::ON::::::N     N:::::::::N  F:::::F               I::::I G:::::G       G::::G U::::::U   U::::::U   R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A      T:::::T          I::::I  O::::::O   O::::::ON::::::N     N:::::::::N
+  C:::::CCCCCCCC::::CO:::::::OOO:::::::ON::::::N      N::::::::NFF:::::::FF           II::::::IIG:::::GGGGGGGG::::G U:::::::UUU:::::::U RR:::::R     R:::::R   A:::::A             A:::::A   TT:::::::TT      II::::::IIO:::::::OOO:::::::ON::::::N      N::::::::N
+   CC:::::::::::::::C OO:::::::::::::OO N::::::N       N:::::::NF::::::::FF           I::::::::I GG:::::::::::::::G  UU:::::::::::::UU  R::::::R     R:::::R  A:::::A               A:::::A  T:::::::::T      I::::::::I OO:::::::::::::OO N::::::N       N:::::::N
+     CCC::::::::::::C   OO:::::::::OO   N::::::N        N::::::NF::::::::FF           I::::::::I   GGG::::::GGG:::G    UU:::::::::UU    R::::::R     R:::::R A:::::A                 A:::::A T:::::::::T      I::::::::I   OO:::::::::OO   N::::::N        N::::::N
+        CCCCCCCCCCCCC     OOOOOOOOO     NNNNNNNN         NNNNNNNFFFFFFFFFFF           IIIIIIIIII      GGGGGG   GGGG      UUUUUUUUU      RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAATTTTTTTTTTT      IIIIIIIIII     OOOOOOOOO     NNNNNNNN         NNNNNNN
+
+
+
+
+
+
+   : : ${application.title} : :             (v${application.version})
+
+
+https://patorjk.com/software/taag/#p=display&f=Doh&t=CONFIGURATION
+

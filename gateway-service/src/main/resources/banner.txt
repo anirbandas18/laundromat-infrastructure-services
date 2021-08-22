@@ -1,0 +1,29 @@
+
+
+
+        GGGGGGGGGGGGG               AAA         TTTTTTTTTTTTTTTTTTTTTTTEEEEEEEEEEEEEEEEEEEEEEWWWWWWWW                           WWWWWWWW   AAA           YYYYYYY       YYYYYYY
+     GGG::::::::::::G              A:::A        T:::::::::::::::::::::TE::::::::::::::::::::EW::::::W                           W::::::W  A:::A          Y:::::Y       Y:::::Y
+   GG:::::::::::::::G             A:::::A       T:::::::::::::::::::::TE::::::::::::::::::::EW::::::W                           W::::::W A:::::A         Y:::::Y       Y:::::Y
+  G:::::GGGGGGGG::::G            A:::::::A      T:::::TT:::::::TT:::::TEE::::::EEEEEEEEE::::EW::::::W                           W::::::WA:::::::A        Y::::::Y     Y::::::Y
+ G:::::G       GGGGGG           A:::::::::A     TTTTTT  T:::::T  TTTTTT  E:::::E       EEEEEE W:::::W           WWWWW           W:::::WA:::::::::A       YYY:::::Y   Y:::::YYY
+G:::::G                        A:::::A:::::A            T:::::T          E:::::E               W:::::W         W:::::W         W:::::WA:::::A:::::A         Y:::::Y Y:::::Y
+G:::::G                       A:::::A A:::::A           T:::::T          E::::::EEEEEEEEEE      W:::::W       W:::::::W       W:::::WA:::::A A:::::A         Y:::::Y:::::Y
+G:::::G    GGGGGGGGGG        A:::::A   A:::::A          T:::::T          E:::::::::::::::E       W:::::W     W:::::::::W     W:::::WA:::::A   A:::::A         Y:::::::::Y
+G:::::G    G::::::::G       A:::::A     A:::::A         T:::::T          E:::::::::::::::E        W:::::W   W:::::W:::::W   W:::::WA:::::A     A:::::A         Y:::::::Y
+G:::::G    GGGGG::::G      A:::::AAAAAAAAA:::::A        T:::::T          E::::::EEEEEEEEEE         W:::::W W:::::W W:::::W W:::::WA:::::AAAAAAAAA:::::A         Y:::::Y
+G:::::G        G::::G     A:::::::::::::::::::::A       T:::::T          E:::::E                    W:::::W:::::W   W:::::W:::::WA:::::::::::::::::::::A        Y:::::Y
+ G:::::G       G::::G    A:::::AAAAAAAAAAAAA:::::A      T:::::T          E:::::E       EEEEEE        W:::::::::W     W:::::::::WA:::::AAAAAAAAAAAAA:::::A       Y:::::Y
+  G:::::GGGGGGGG::::G   A:::::A             A:::::A   TT:::::::TT      EE::::::EEEEEEEE:::::E         W:::::::W       W:::::::WA:::::A             A:::::A      Y:::::Y
+   GG:::::::::::::::G  A:::::A               A:::::A  T:::::::::T      E::::::::::::::::::::E          W:::::W         W:::::WA:::::A               A:::::A  YYYY:::::YYYY
+     GGG::::::GGG:::G A:::::A                 A:::::A T:::::::::T      E::::::::::::::::::::E           W:::W           W:::WA:::::A                 A:::::A Y:::::::::::Y
+        GGGGGG   GGGGAAAAAAA                   AAAAAAATTTTTTTTTTT      EEEEEEEEEEEEEEEEEEEEEE            WWW             WWWAAAAAAA                   AAAAAAAYYYYYYYYYYYYY
+
+
+
+
+
+   : : ${application.title} : :             (v${application.version})
+
+
+https://patorjk.com/software/taag/#p=display&f=Doh&t=GATEWAY
+
