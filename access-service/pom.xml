@@ -10,8 +10,9 @@
     </parent>
 
     <properties>
-        <start-class>com.teenthofabud.laundromat.infrastructure.authorization.AuthorizationServiceApplication</start-class>
-        <service.prefix>authorization</service.prefix>
+        <start-class>com.teenthofabud.laundromat.infrastructure.com.teenthofabud.laundromat.infrastructure.access.AccessServiceApplication</start-class>
+        <service.prefix>access</service.prefix>
+        <toab-chassis-sdk.version>0.0.1-SNAPSHOT</toab-chassis-sdk.version>
     </properties>
 
     <artifactId>laundromat-infrastructure-${service.prefix}-service</artifactId>
@@ -47,7 +48,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <jvmArguments>
-                        -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:6005
+                        -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:6006
                     </jvmArguments>
                 </configuration>
             </plugin>
