@@ -15,7 +15,7 @@
     </properties>
 
     <artifactId>laundromat-infrastructure-${service.prefix}-service</artifactId>
-    <version>0.0.1-RELEASE</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${service.prefix}-service</name>
 
@@ -28,17 +28,9 @@
                 <version>${jib.version}</version>
                 <configuration>
                     <to>
-                        <image>docker.io/teenthofabud/${project.artifactId}</image>
+                        <image>docker.io/teenthofabud/${project.artifactId}:${project.version}</image>
                     </to>
                 </configuration>
-                <!--<executions>
-                    <execution>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>build</goal>
-                        </goals>
-                    </execution>
-                </executions>-->
             </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

@@ -12,8 +12,6 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
-#      MYSQL_USER: anirbanstifler
-#      MYSQL_PASS: Razor1911.
     volumes:
       - /opt/laundromat-manager/var/lib/mysql:/var/lib/mysql
       - /opt/laundromat-manager/laundromat-management-scripts/database-scripts/SQL/MySQL/laundromat.admin.sql:/docker-entrypoint-initdb.d/mysql.laundromat.admin.sql
@@ -38,8 +36,8 @@ services:
     image: teenthofabud/laundromat-infrastructure-naming-service:0.0.1-SNAPSHOT
     container_name: configuration-service
     hostname: configuration-service
-    ports:
-      - 8888:8888
+    restart: on-failure
     volumes:
       - /opt/laundromat-manager/laundromat-service-configurations:/opt/laundromat-manager/laundromat-service-configurations
-    restart: on-failure
+    ports:
+      - 8888:8888
