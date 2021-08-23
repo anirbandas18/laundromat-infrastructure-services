@@ -33,7 +33,7 @@ services:
       - 8761:8761
 
   configuration-service:
-    image: teenthofabud/laundromat-infrastructure-naming-service:0.0.1-SNAPSHOT
+    image: teenthofabud/laundromat-infrastructure-configuration-service:0.0.1-SNAPSHOT
     container_name: configuration-service
     hostname: configuration-service
     restart: on-failure
